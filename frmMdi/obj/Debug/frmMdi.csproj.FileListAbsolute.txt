@@ -1,0 +1,9 @@
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\bin\Debug\frmMdi.exe.config
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\bin\Debug\frmMdi.exe
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\bin\Debug\frmMdi.pdb
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\obj\Debug\frmMdi.mdi.resources
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\obj\Debug\frmMdi.frmsplash.resources
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\obj\Debug\frmMdi.Properties.Resources.resources
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\obj\Debug\frmMdi.csproj.GenerateResource.Cache
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\obj\Debug\frmMdi.exe
+C:\Users\MOHAN\documents\visual studio 2013\Projects\CrimeProject\frmMdi\obj\Debug\frmMdi.pdb
